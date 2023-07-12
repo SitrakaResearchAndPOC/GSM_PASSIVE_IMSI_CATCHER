@@ -9,7 +9,9 @@
 
 # Use netmonitor on android or cellmapper or arfcncalculator
 * [cell_mapper](https://www.cellmapper.net/arfcn?net=GSM&ARFCN=977&MCC=0)  
+...
 grgsm_scanner  
+...
 grgsm_scanner --help  
 grgsm_scanner --args=rtlsdr -v -d  
 grgsm_livemon -f 945.0M --args=rtlsdr  
